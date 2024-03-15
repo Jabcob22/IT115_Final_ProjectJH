@@ -1,3 +1,3 @@
 # IT115 Final Project
 Jake Hughes
-My favorite number is 100
+My favorite number is 102
